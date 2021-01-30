@@ -1,0 +1,94 @@
+		Per ogni tipologia di dato e' necessario creare un file .txt dedicato;
+
+La formattazione deve rispettare questi criteri:
+
+			  		  AUTORI
+Nome_1
+Cognome_1
+Identificativo_1
+Afferenza_1
+...
+Afferenza_(n)
+
+Nome_2
+Cognome_2
+Identificativo_2
+Afferenza_1
+...
+Afferenza_(n)
+					  CONFERENZE
+Nome_1
+Acronimo_1
+Luogo_1
+Data_1
+NumeroPartecipanti_1
+Organizzatore_1
+...
+Organizzatore_(n)
+
+Nome_1
+Acronimo_1
+Luogo_1
+Data_1
+NumeroPartecipanti_1
+Organizzatore_1
+...
+Organizzatore_(n)
+					  RIVISTE
+Nome_1
+Acronimo_1
+Editore_1
+Data_1
+Volume_1
+
+Nome_2
+Acronimo_2
+Editore_2
+Data_2
+Volume_2
+					  ARTICOLI
+Nome_1
+Articolo_1
+RIVISTA (Se correlato a una rivista)
+AcronimoRivista_1
+VolumeRivista_1
+AUTORI
+IdentificativoAutore_1
+...
+IdentificativoAutore_(n)
+KEYWORD
+Keyword_1
+Keyword_2
+CORRELATI
+IdentificativoArticolo_1
+...
+IdentificativoArticolo_(n)
+
+Nome_2
+Articolo_2
+CONFERENZA (Se correlato a una conferenza)
+AcronimoConferenza_1
+LuogoConferenza_1
+AUTORI
+IdentificativoAutore_1
+...
+IdentificativoAutore_(n)
+KEYWORD
+Keyword_1
+Keyword_2
+CORRELATI
+IdentificativoArticolo_1
+...
+IdentificativoArticolo_(n)
+
+Nome_3
+Articolo_3
+CONFERENZA/RIVISTA
+AcronimoConferenza/AcronimoRivista
+LuogoConferenza/VolumeRivista
+AUTORI
+IdentificativoAutore_1
+...
+IdentificativoAutore_(n)
+
+

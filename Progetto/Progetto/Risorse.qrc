@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/logounical.png</file>
+        <file>img/freccia.png</file>
+        <file>img/sezionegestione2.png</file>
+        <file>img/homepage2.png</file>
+        <file>img/homepage.png</file>
+        <file>img/sezionegestione.png</file>
+        <file>img/inserimento_dati.png</file>
+        <file>img/SezioneRapida.png</file>
+        <file>img/sezioneRapida2.png</file>
+    </qresource>
+</RCC>
